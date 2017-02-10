@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -411,6 +412,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box5-9 P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -531,67 +536,6 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#ext_menu-o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-o .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-o .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-o .close-icon::before,
-#ext_menu-o .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-o .link,
-#ext_menu-o .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-o .link {
-  font-size: 0.75rem;
-}
-#ext_menu-o .dropdown-item,
-#ext_menu-o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-o .link:hover,
-#ext_menu-o .dropdown-item:hover,
-#ext_menu-o .link:focus,
-#ext_menu-o .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-o .link[aria-expanded="true"],
-#ext_menu-o .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-o .nav-dropdown-sm .link:focus,
-#ext_menu-o .nav-dropdown-sm .link:hover,
-#ext_menu-o .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-o .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-o .navbar,
-#ext_menu-o .nav-dropdown-sm,
-#ext_menu-o .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-o .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-o .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-o .bg-color.transparent.opened .link:hover,
-#ext_menu-o .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-o .link[aria-expanded="true"],
-#ext_menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
 #ext_menu-s .hide-buttons .nav-btn {
