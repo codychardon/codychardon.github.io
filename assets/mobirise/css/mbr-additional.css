@@ -901,6 +901,10 @@ h6,
 #header3-1h .mbr-section-subtitle {
   text-align: center;
 }
+#header3-23 .mbr-section-title,
+#header3-23 .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-1i .mbr-section-title,
 #msg-box8-1i p {
   color: #fff;
