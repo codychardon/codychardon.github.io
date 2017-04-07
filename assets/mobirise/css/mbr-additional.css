@@ -930,15 +930,21 @@ h6,
 }
 #msg-box8-2b .mbr-section-title {
   font-family: 'Bitter', serif;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box8-2b .lead {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Bitter', serif;
 }
 #msg-box8-2c .mbr-section-title,
 #msg-box8-2c p {
   color: #fff;
+}
+#msg-box8-2c .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-2c .lead P {
+  color: #000000;
 }
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
@@ -1011,4 +1017,5 @@ h6,
 }
 #header3-2d I {
   text-align: center;
+  color: #000000;
 }

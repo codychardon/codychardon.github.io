@@ -2530,10 +2530,10 @@
             ".mbr-section-title": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".lead": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
@@ -2570,6 +2570,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2698,7 +2704,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "I": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_tags": [
