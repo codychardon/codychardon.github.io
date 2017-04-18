@@ -2604,7 +2604,7 @@
           },
           "title": "Imagine Dragons",
           "text": "<p>This is a video that I created from the clips provided for the Imagine Dragons competition</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Video Unavailable</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=iyz2TJI1BOc\" data-toolbar=\"-mbrBtnMove\">Click to View</a>"
         },
         {
           "_inherit": "menu",
