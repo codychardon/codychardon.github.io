@@ -2707,7 +2707,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#7c706b",
+            "bgColor": "#000000",
             "showMeta": false
           },
           "title": "",
