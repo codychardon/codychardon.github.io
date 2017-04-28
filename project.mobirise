@@ -2751,7 +2751,7 @@
           },
           "title": "A Million Reasons Why",
           "text": "<p>A Video that is just like the song \"A Million Reasons Why\" but instead shows about me.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Video Unavailable</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=W3OYnXeHixg\" data-toolbar=\"-mbrBtnMove\">Click to View</a>"
         },
         {
           "_styles": {
