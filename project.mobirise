@@ -2235,7 +2235,10 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
             }
           },
           "_anchor": "header1-1g",
@@ -2243,7 +2246,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/capture-2000x1374.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
